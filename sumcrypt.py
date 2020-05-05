@@ -92,5 +92,5 @@ elif args.mode == 'k':
 	print(key.decode())
 else:
 	print("""Please use the following syntax : 
-		pycrypt.py input output mode
-		Example : pycrypt.py input.png output.txt e/d""")
+		sumcrypt.py : -m e/d -i input -k key
+		sumcrypt.py : -m k -p password -s salf""")
