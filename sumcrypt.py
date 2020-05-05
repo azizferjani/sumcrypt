@@ -94,5 +94,3 @@ else:
 	print("""Please use the following syntax : 
 		pycrypt.py input output mode
 		Example : pycrypt.py input.png output.txt e/d""")
-
-
