@@ -93,4 +93,4 @@ elif args.mode == 'k':
 else:
 	print("""Please use the following syntax : 
 		sumcrypt.py : -m e/d -i input -k key
-		sumcrypt.py : -m k -p password -s salf""")
+		sumcrypt.py : -m k -p password -s salt""")
